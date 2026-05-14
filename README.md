@@ -1,6 +1,25 @@
 # Modelos de Decisión 2026 
 
-Este repositorio contiene las herramientas y modelos desarrollados para 
+Este repositorio contiene las herramientas y modelos desarrollados en la materia, divididos en dos herramientas:
+
+Herramienta Estadistica Descriptiva/Normalizacion/Ponderacion/Agregacion (de agregacion por el momento Suma ponderada y media geometrica ponderada, pronto se agregaran los demas vistos)
+
+Herramienta DEA: Modelos CCR, BCC, Modelo Aditivo y calculadora de Eficiencia de Escala (CCR + BCC)
+
+
+## 📋 Recomendaciones Previas
+
+Las tablas de excel cargadas deben contener los datos limpios y ya transformados (en el caso de la linea de codigo de Agregacion, para suma ponderada y media geometrica ponderada se pueden transformar criterios de minimo a maximo automaticamente, usa la formula aij min/aij)
+
+Los archivos a subir no deben tener celdas combinadas ni varias hojas (solo 1 hoja por archivo). Se recomienda trabajar con textos cortos.
+
+Para la normalizacion RIM, se toma por defecto para C y D el cuarto cuartil de los datos, pero se pueden ingresar valores manuales.
+
+La media geometrica ponderada ya tiene incluida la normalizacion aij^peso.
+
+Los metodos que se basan en comparaciones pareadas como AHP permiten la carga manual de datos para armar la matriz
+
+Para seleccionar varios criterios, se debe mantener apretado shift y hacer click con el raton
 
 ## 🚀 Ejecución Interactiva
 
@@ -38,17 +57,5 @@ El cuaderno está desarrollado en Python 3 y requiere los siguientes paquetes pr
 * **Numpy**: Para el soporte de vectores y operaciones matemáticas eficientes.
 * **Openpyxl**: Para la lectura y exportación de archivos de datos en formato Excel.
 
-## 📋 Requisitos Previos
 
-Las tablas de excel cargadas deben contener los datos limpios y ya transformados (en el caso de la linea de codigo de Agregacion, para suma ponderada y media geometrica ponderada se pueden transformar criterios de minimo a maximo automaticamente, usa la formula aij min/aij)
-
-Los archivos a subir no deben tener celdas combinadas ni varias hojas (solo 1 hoja por archivo). Se recomienda trabajar con textos cortos.
-
-Para la normalizacion RIM, se toma por defecto para C y D el cuarto cuartil de los datos, pero se pueden ingresar valores manuales.
-
-La media geometrica ponderada ya tiene incluida la normalizacion aij^peso.
-
-Los metodos que se basan en comparaciones pareadas como AHP permiten la carga manual de datos para armar la matriz
-
-Para seleccionar varios criterios, se debe mantener apretado shift y hacer click con el raton
 
