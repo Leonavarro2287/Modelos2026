@@ -23,7 +23,7 @@ Para seleccionar varios criterios, se debe mantener apretado Control y hacer cli
 
 ## 🚀 Ejecución Interactiva
 
-Puedes ejecutar y probar el modelo de forma inmediata en la nube haciendo clic en el siguiente botón:
+Podes ejecutar y probar el modelo click en los siguientes enlaces:
 
 <a href="https://colab.research.google.com/drive/1fVdxArkOfyguIZvEM-27IUFyO_YWWyZQ?authuser=2" target="_blank" style="
   display: inline-block;
