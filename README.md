@@ -25,27 +25,20 @@ Para seleccionar varios criterios, se debe mantener apretado Control y hacer cli
 
 Podes ejecutar y probar el modelo click en los siguientes enlaces:
 
-<a href="https://colab.research.google.com/drive/1Wt5XtLLFvexj37uL6ubZmLnwLAP4rQYn?authuser=2" target="_blank" style="
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: #34a853;
-  color: white;
-  text-decoration: none;
-  border-radius: 4px;
-  font-weight: bold;
-  font-family: sans-serif;
-">Herramienta Estadistica Descriptiva/Normalizacion/Ponderacion/Agregacion</a>
+<a href="https://colab.research.google.com/drive/1Wt5XtLLFvexj37uL6ubZmLnwLAP4rQYn?authuser=2" 
+   target="_blank" 
+   rel="noopener noreferrer"
+   style="display: inline-block; padding: 10px 20px; background-color: #34a853; color: white; text-decoration: none; border-radius: 4px; font-weight: bold; font-family: sans-serif; margin-right: 10px;">
+   Herramienta Estadistica Descriptiva/Normalizacion/Ponderacion/Agregacion
+</a>
 
-<a href="https://colab.research.google.com/drive/1fVdxArkOfyguIZvEM-27IUFyO_YWWyZQ?authuser=2" target="_blank" style="
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: #34a853;
-  color: white;
-  text-decoration: none;
-  border-radius: 4px;
-  font-weight: bold;
-  font-family: sans-serif;
-">Herramienta DEA</a>
+<a href="https://colab.research.google.com/drive/1fVdxArkOfyguIZvEM-27IUFyO_YWWyZQ?authuser=2" 
+   target="_blank" 
+   rel="noopener noreferrer"
+   style="display: inline-block; padding: 10px 20px; background-color: #34a853; color: white; text-decoration: none; border-radius: 4px; font-weight: bold; font-family: sans-serif;">
+   Herramienta DEA
+</a>
+
 
 ## 🛠️ Tecnologías y Librerías Utilizadas
 
