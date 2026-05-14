@@ -1,6 +1,6 @@
-# Modelos de Decisión 2026 - Análisis DEA
+# Modelos de Decisión 2026 
 
-Este repositorio contiene las herramientas y modelos desarrollados para el análisis de **Análisis de Envolvimiento de Datos (DEA)** bajo la orientación Input/Output utilizando programación lineal.
+Este repositorio contiene las herramientas y modelos desarrollados para 
 
 ## 🚀 Ejecución Interactiva
 
@@ -21,6 +21,4 @@ El cuaderno está desarrollado en Python 3 y requiere los siguientes paquetes pr
 
 Si deseas ejecutar el cuaderno localmente o en un entorno propio, asegúrate de instalar las dependencias ejecutando:
 
-```bash
-pip install pulp openpyxl pandas numpy
-```
+`
