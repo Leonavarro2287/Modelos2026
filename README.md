@@ -2,9 +2,9 @@
 
 Este repositorio contiene las herramientas y modelos desarrollados en la materia, divididos en dos herramientas:
 
-Herramienta Estadistica Descriptiva/Normalizacion/Ponderacion/Agregacion (de agregacion por el momento Suma ponderada y media geometrica ponderada, pronto se agregaran los demas vistos)
+1. Herramienta Estadistica Descriptiva/Normalizacion/Ponderacion/Agregacion (de agregacion por el momento Suma ponderada y media geometrica ponderada, pronto se agregaran los demas vistos)
 
-Herramienta DEA: Modelos CCR, BCC, Modelo Aditivo y calculadora de Eficiencia de Escala (CCR + BCC)
+2. Herramienta DEA: Modelos CCR, BCC, Modelo Aditivo y calculadora de Eficiencia de Escala (CCR + BCC)
 
 
 ## 📋 Recomendaciones Previas
