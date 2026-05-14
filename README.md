@@ -28,30 +28,6 @@ Puedes ejecutar y probar el modelo de forma inmediata en la nube haciendo clic e
   font-family: sans-serif;
 ">Herramienta Estadistica Descriptiva/Normalizacion/Ponderacion/Agregacion</a>
 
-<table>
-  <tr>
-    <td bgcolor="#5cb85c" align="center" style="padding: 2px;">
-      <a href="https://colab.research.google.com/drive/1fVdxArkOfyguIZvEM-27IUFyO_YWWyZQ?authuser=2" target="_blank">
-        <font color="#ffffff" size="4"><b>&nbsp;&nbsp; Herramienta DEA &nbsp;&nbsp;</b></font>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table>
-  <tr>
-    <td bgcolor="#5cb85c" align="center" style="padding: 2px;">
-      <a href="https://colab.research.google.com/drive/1Wt5XtLLFvexj37uL6ubZmLnwLAP4rQYn?authuser=2" target="_blank">
-        <font color="#ffffff" size="4"><b>&nbsp;&nbsp; Herramienta Estadística Descriptiva/Normalización/Ponderación/Agregación &nbsp;&nbsp;</b></font>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
 
 ## 🛠️ Tecnologías y Librerías Utilizadas
 
@@ -64,6 +40,15 @@ El cuaderno está desarrollado en Python 3 y requiere los siguientes paquetes pr
 
 ## 📋 Requisitos Previos
 
-Si deseas ejecutar el cuaderno localmente o en un entorno propio, asegúrate de instalar las dependencias ejecutando:
+Las tablas de excel cargadas deben contener los datos limpios y ya transformados (en el caso de la linea de codigo de Agregacion, para suma ponderada y media geometrica ponderada se pueden transformar criterios de minimo a maximo automaticamente, usa la formula aij min/aij)
 
-`
+Los archivos a subir no deben tener celdas combinadas ni varias hojas (solo 1 hoja por archivo). Se recomienda trabajar con textos cortos.
+
+Para la normalizacion RIM, se toma por defecto para C y D el cuarto cuartil de los datos, pero se pueden ingresar valores manuales.
+
+La media geometrica ponderada ya tiene incluida la normalizacion aij^peso.
+
+Los metodos que se basan en comparaciones pareadas como AHP permiten la carga manual de datos para armar la matriz
+
+Para seleccionar varios criterios, se debe mantener apretado shift y hacer click con el raton
+
