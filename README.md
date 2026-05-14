@@ -15,7 +15,7 @@ Puedes ejecutar y probar el modelo de forma inmediata en la nube haciendo clic e
   border-radius: 4px;
   font-weight: bold;
   font-family: sans-serif;
-">DEA</a>
+">Herramienta DEA</a>
 
 
 
