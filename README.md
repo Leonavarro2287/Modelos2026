@@ -24,6 +24,7 @@ Para seleccionar varios criterios, se debe mantener apretado Control y hacer cli
 ## 🚀 Ejecución Interactiva
 
 Podes ejecutar y probar el modelo click en los siguientes enlaces:
+(se recomienda click derecho: abrir enlace en una nueva pestaña, para mantener esta abierta)
 
 <a href="https://colab.research.google.com/drive/1Wt5XtLLFvexj37uL6ubZmLnwLAP4rQYn?authuser=2" 
    target="_blank" 
