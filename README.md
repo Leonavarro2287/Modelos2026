@@ -19,7 +19,7 @@ La media geometrica ponderada ya tiene incluida la normalizacion aij^peso.
 
 Los metodos que se basan en comparaciones pareadas como AHP permiten la carga manual de datos para armar la matriz
 
-Para seleccionar varios criterios, se debe mantener apretado shift y hacer click con el raton
+Para seleccionar varios criterios, se debe mantener apretado Control y hacer click con el raton
 
 ## 🚀 Ejecución Interactiva
 
