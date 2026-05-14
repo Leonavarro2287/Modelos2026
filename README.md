@@ -6,6 +6,18 @@ Este repositorio contiene las herramientas y modelos desarrollados para
 
 Puedes ejecutar y probar el modelo de forma inmediata en la nube haciendo clic en el siguiente botón:
 
+<a href="google.com" target="_blank" style="
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  font-family: sans-serif;
+">DEA</a>
+
+
 [[DEA](https://google.com)](https://colab.research.google.com/drive/1fVdxArkOfyguIZvEM-27IUFyO_YWWyZQ?authuser=2#scrollTo=KE88rWK_NEsN)
 
 ## 🛠️ Tecnologías y Librerías Utilizadas
