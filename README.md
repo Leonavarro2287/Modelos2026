@@ -13,6 +13,8 @@ Las tablas de excel cargadas deben contener los datos limpios y ya transformados
 
 Los archivos a subir no deben tener celdas combinadas ni varias hojas (solo 1 hoja por archivo). Se recomienda trabajar con textos cortos.
 
+Solo se debe ejecutar cada linea de codigo por separado y seguir las instrucciones que van apareciendo. Es bastante intuitivo. 
+
 Para la normalizacion RIM, se toma por defecto para C y D el ultimo cuartil de los datos, pero se pueden ingresar valores manuales.
 
 La media geometrica ponderada ya tiene incluida la normalizacion aij^peso.
