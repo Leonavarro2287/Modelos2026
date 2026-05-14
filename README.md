@@ -6,7 +6,7 @@ Este repositorio contiene las herramientas y modelos desarrollados para el anál
 
 Puedes ejecutar y probar el modelo de forma inmediata en la nube haciendo clic en el siguiente botón:
 
-[![Open In Colab](https://google.com)](https://google.com)
+[![Open In Colab](https://google.com)](https://colab.research.google.com/drive/1fVdxArkOfyguIZvEM-27IUFyO_YWWyZQ?authuser=2#scrollTo=KE88rWK_NEsN)
 
 ## 🛠️ Tecnologías y Librerías Utilizadas
 
