@@ -28,19 +28,28 @@ Puedes ejecutar y probar el modelo de forma inmediata en la nube haciendo clic e
   font-family: sans-serif;
 ">Herramienta Estadistica Descriptiva/Normalizacion/Ponderacion/Agregacion</a>
 
-<a href="https://colab.research.google.com/drive/1Wt5XtLLFvexj37uL6ubZmLnwLAP4rQYn?authuser=2" target="_blank" style="
-  display: inline-block;
-  padding: 12px 24px;
-  background-color: #90ee90;
-  color: #1a5235;
-  text-decoration: none;
-  border-radius: 6px;
-  font-weight: 900;
-  font-family: sans-serif;
-  border: 1px solid #7cdb7c;
-  box-shadow: 0px 5px 0px #5cb85c;
-  text-shadow: 1px 1px 0px #ffffff, -1px -1px 0px #ffffff;
-">EDNPA</a>
+<table>
+  <tr>
+    <td bgcolor="#5cb85c" align="center" style="padding: 2px;">
+      <a href="https://colab.research.google.com/drive/1fVdxArkOfyguIZvEM-27IUFyO_YWWyZQ?authuser=2" target="_blank">
+        <font color="#ffffff" size="4"><b>&nbsp;&nbsp; Herramienta DEA &nbsp;&nbsp;</b></font>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td bgcolor="#5cb85c" align="center" style="padding: 2px;">
+      <a href="https://colab.research.google.com/drive/1Wt5XtLLFvexj37uL6ubZmLnwLAP4rQYn?authuser=2" target="_blank">
+        <font color="#ffffff" size="4"><b>&nbsp;&nbsp; Herramienta Estadística Descriptiva/Normalización/Ponderación/Agregación &nbsp;&nbsp;</b></font>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
