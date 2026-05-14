@@ -1,6 +1,6 @@
 # Modelos de Decisión 2026 - Análisis DEA
 
-Este repositorio contiene las herramientas y modelos desarrollados para el análisis de **Análisis de Envolvimiento de Datos (DEA)** bajo la orientación Input/Output utilizando programación lineal.
+Este repositorio contiene las herramientas y modelos desarrollados para el análisis DEA
 
 ## 🚀 Ejecución Interactiva
 
