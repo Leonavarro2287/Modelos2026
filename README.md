@@ -17,9 +17,18 @@ Puedes ejecutar y probar el modelo de forma inmediata en la nube haciendo clic e
   font-family: sans-serif;
 ">Herramienta DEA</a>
 
+<a href="https://colab.research.google.com/drive/1Wt5XtLLFvexj37uL6ubZmLnwLAP4rQYn?authuser=2" target="_blank" style="
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #34a853;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+  font-family: sans-serif;
+">Herramienta Estadistica Descriptiva/Normalizacion/Ponderacion/Agregacion</a>
 
 
-[[DEA](https://google.com)](https://colab.research.google.com/drive/1fVdxArkOfyguIZvEM-27IUFyO_YWWyZQ?authuser=2#scrollTo=KE88rWK_NEsN)
 
 ## 🛠️ Tecnologías y Librerías Utilizadas
 
