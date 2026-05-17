@@ -19,7 +19,7 @@ Para la normalizacion RIM, se toma por defecto para C y D el ultimo cuartil de l
 
 La media geometrica ponderada ya tiene incluida la normalizacion aij^peso.
 
-Los metodos que se basan en comparaciones pareadas como AHP permiten la carga manual de datos para armar la matriz
+Los metodos que se basan en comparaciones pareadas como AHP permiten la carga manual de puntajes para armar la matriz pareada
 
 Para seleccionar varios criterios, se debe mantener apretado Control y hacer click con el raton
 
