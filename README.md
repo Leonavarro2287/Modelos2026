@@ -34,7 +34,7 @@ Podes ejecutar y probar el modelo haciendo click en los siguientes enlaces:
    Herramienta Estadistica Descriptiva/Normalizacion/Ponderacion/Agregacion
 </a>
 
-<a href="https://colab.research.google.com/drive/1fVdxArkOfyguIZvEM-27IUFyO_YWWyZQ?authuser=2" 
+<a href="https://colab.research.google.com/drive/1fVdxArkOfyguIZvEM-27IUFyO_YWWyZQ?authuser=2#scrollTo=pdr8KSiYTMSr" 
    target="_blank" 
    rel="noopener noreferrer"
    style="display: inline-block; padding: 10px 20px; background-color: #34a853; color: white; text-decoration: none; border-radius: 4px; font-weight: bold; font-family: sans-serif;">
