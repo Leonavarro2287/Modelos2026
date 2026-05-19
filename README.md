@@ -27,7 +27,7 @@ Para seleccionar varios criterios, se debe mantener apretado Control y hacer cli
 
 Podes ejecutar y probar el modelo haciendo click en los siguientes enlaces:
 
-<a href="https://colab.research.google.com/drive/1Wt5XtLLFvexj37uL6ubZmLnwLAP4rQYn?authuser=2" 
+<a href="https://colab.research.google.com/drive/1Wt5XtLLFvexj37uL6ubZmLnwLAP4rQYn?authuser=2#scrollTo=myCWaRY3ABMz" 
    target="_blank" 
    rel="noopener noreferrer"
    style="display: inline-block; padding: 10px 20px; background-color: #34a853; color: white; text-decoration: none; border-radius: 4px; font-weight: bold; font-family: sans-serif; margin-right: 10px;">
